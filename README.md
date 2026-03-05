@@ -40,4 +40,4 @@ Este projeto foi criado com o objetivo de:
 ## 📷 Demonstração
 Adicione aqui imagens ou GIFs da interface do projeto.
 
-Exemplo:
+https://github.com/user-attachments/assets/5f9c6531-a18c-48d4-9e1e-5170a3f0a520
