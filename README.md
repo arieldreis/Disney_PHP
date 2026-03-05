@@ -41,3 +41,6 @@ Este projeto foi criado com o objetivo de:
 Adicione aqui imagens ou GIFs da interface do projeto.
 
 https://github.com/user-attachments/assets/5f9c6531-a18c-48d4-9e1e-5170a3f0a520
+
+https://github.com/user-attachments/assets/7001c6fb-5b4e-43c1-92a1-152868ad43f6
+
